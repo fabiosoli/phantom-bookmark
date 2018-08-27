@@ -1,8 +1,4 @@
-# Phantom bookmark project.
-
-This application was built with angular CLI. 
-
-# Installation
+# Phantom bookmark project - Installation 
 
 Clone the repository and Install the application: `npm install`
 
